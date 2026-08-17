@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# FALCON local data
+FALCON_reports/
+.falcon_settings.json
+
+# Local logs / temporary files
+*.log
+*.tmp
+*.bak
