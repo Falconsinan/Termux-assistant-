@@ -40,7 +40,7 @@ Some information depends on the commands and files available on the host system.
 ```bash
 pkg update
 pkg install python git
-git clone https://github.com/YOUR-USERNAME/FALCON-Command-Center.git
+git clone https://github.com/Falconsinan/Termux-assistant-.git
 cd FALCON-Command-Center
 python3 falcon_command_center.py
 ```
